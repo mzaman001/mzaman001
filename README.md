@@ -17,14 +17,6 @@ Final-year CS student in **Bengaluru** who ships products end-to-end, from schem
 
 **Open to:** Frontend / Full-Stack internships and entry-level roles on AI products · on-site or remote · graduating 2027
 
-<div align="center">
-
-| **2** | **300+** | **R² 0.94** | **+21–78%** |
-|:---:|:---:|:---:|:---:|
-| products live in production | tokens/sec on free-tier LLMs | demand-forecast accuracy | driver earnings in published research |
-
-</div>
-
 ## Featured projects
 
 <table>
